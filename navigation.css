@@ -1,0 +1,23 @@
+nav{
+    padding:20px 20px;
+  
+
+}
+
+button{
+      
+    font-family: 'Raleway',sans-serif;
+    font-weight:600;
+    color: #fffffbef;
+    padding: 10px 17px;
+    background-color: rgba(131, 25,60,1);
+    border-radius: 50px;
+    border:none;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+button:hover{
+    font-weight:800;
+    background-color: rgba(255, 255, 255, 0.966);
+    color:rgba(110, 15, 47, 0.966);
+}
